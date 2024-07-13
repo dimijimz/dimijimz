@@ -1,6 +1,10 @@
 <br> I'm Dimitri, a software development student with a passion for web development and AI integration. Connect with me on LinkedIn or send me an email.
 
 <br>
+
+
+<br>Feel free to explore my repositories and reach out for collaborations or discussions on exciting tech ideas! <br>
+
 <br>📫 Let's Connect:<br>
 <br>
 <a href="https://www.linkedin.com/in/dimitri-jimenez/" target="_blank" style="display: inline-block; margin-right: 10px;">
@@ -10,8 +14,6 @@
 <a href="mailto:dimijimz96@gmail.com" target="_blank" style="display: inline-block;">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" alt="Gmail" width="30" height="30">
 </a>
-
-<br>Feel free to explore my repositories and reach out for collaborations or discussions on exciting tech ideas!
 
 
 
