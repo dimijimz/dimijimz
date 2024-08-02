@@ -1,4 +1,4 @@
-<br> I'm Dimitri, a dedicated software development student with a strong passion for web development and AI integration. I specialize in creating innovative solutions and have hands-on experience in Python and JavaScript. Connect with me on LinkedIn or send me an email.
+<br> I'm Dimitri, a dedicated software development student with a passion for creating innovative and efficient solutions. I specialize in Python and JavaScript and have hands-on experience in various projects, including web development, AI integration, and software engineering. Connect with me on LinkedIn or send me an email.
 
 <br>
 
