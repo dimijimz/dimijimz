@@ -1,4 +1,4 @@
-<br> I'm Dimitri, a dedicated software development student with a passion for creating innovative and efficient solutions. I currently specialize in JavaScript and have hands-on experience in various projects, including web development, AI integration, and software engineering. Connect with me on LinkedIn or send me an email.
+<br> Hi, I’m Dimitri – a passionate software development student focused on building innovative and efficient solutions. While I specialize in JavaScript, I’m currently honing my skills in a 15-week Python Data Analysis Bootcamp with Nebula Academy. My experience spans across web development, AI integration, and software engineering. Feel free to connect with me on LinkedIn or reach out via email.
 
 <br>
 
