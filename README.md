@@ -1,4 +1,4 @@
-# Hi!,my name is Dimitri
+# Hi!, my name is Dimitri
 ### I'm a passionate software development student focused on building innovative and efficient solutions. While honing my skills in Python, HTML/CSS, JavaScript, C#, and Java, I’m currently developing SaaS projects to showcase my ability to deliver real-world, profitable business solutions. My experience spans web development, AI integration, and software engineering.
 
 ## Food Truck Franchise & Entrepreneurship
