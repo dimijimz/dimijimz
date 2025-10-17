@@ -1,32 +1,77 @@
-# Hi!, my name is Dimitri
-### I'm a passionate software development student focused on building innovative and efficient solutions. While honing my skills in Python, HTML/CSS, JavaScript, C#, and Java, I’m currently developing SaaS projects to showcase my ability to deliver real-world, profitable business solutions. My experience spans web development, AI integration, and software engineering.
+# Hi! I'm Dimitri
+### Full-stack developer building production applications with React, TypeScript, and modern web technologies. Currently pursuing my BS in Software Development while shipping real products that solve real problems.
 
-## Food Truck Franchise & Entrepreneurship
-Over the years, I’ve started and managed multiple businesses, notably transforming a multi-location gourmet food truck into a successful franchise. I built a fully integrated website featuring online event booking, automated ordering via the Square API, and a QR-based pickup system. Customers at high-traffic NYC events could skip lines, receive notifications when their food was ready, and enjoy a streamlined dining experience, significantly boosting efficiency during peak hours.
+## 🚀 Current Projects
 
-## Tesla: Roadside Assistance, Mobile Service, and Leadership
-Before transitioning full-time into software, I worked at Tesla near NYC, where I helped launch the Roadside Assistance Program in the Upper NYC/White Plains area. This involved testing and optimizing service zones, using real-world driving data, battery efficiency, and trip planning with Tesla’s Supercharger network. Our data-driven insights even contributed to building a new Supercharger in Yonkers. I then became a Service Technician and later transitioned into Mobile Service, enjoying time on the road while wondering what working from home might be like. I occasionally collaborated with the Mobile Service lead team for NY, advising on regional improvements and supporting broader strategic decisions.
+**TopBlast** - [topblast.tech](https://topblast.tech)  
+A live social trading platform on Solana serving real users. Built with React, TypeScript, Firebase, and Solana Web3.js.
+- Real-time price prediction system with XP-based reputation scoring
+- Solana wallet integration for portfolio tracking with live SPL token valuations
+- Firebase backend managing authentication, Firestore database, and cloud functions
+- AI-powered token risk analysis for contract safety evaluation
+- Full social features: live chat, DMs, and community prediction feeds
 
-Although I was eventually laid off, that challenging period pushed me to make pivotal life changes, such as returning to college. As well as, renting out my home and relocating to North Carolina in hopes to find somewhere new and more affordable. This move was great for my family and even had us reunite with some of our closest friends. This shift opened doors for my next opportunity: an internship in App Development at Year Up United in Charlotte. It’s conveniently only a short ride (or walk) from my new apartment!
+**Multiplayer Roblox Game** (In Development)  
+Monetization-ready multiplayer game featuring complex gameplay systems and economy design.
+- Vehicle physics engine with collision-based scoring and progression mechanics
+- Dual-currency economy with Robux microtransactions
+- Performance-based reward systems and premium content delivery
+- Persistent player data using Roblox DataStores
 
-## Back to College & Ongoing Software Journey
-Following the events of my Tesla lay off, I reenrolled in college to pursue my Bachelor’s degree in Software Development at Grand Canyon University, with the goal of landing a role at one of Year Up’s partner companies (e.g., Bank of America, Lowe’s Tech Hub, or Wells Fargo). Previously, I interned at Nebula Academy, where I deepened my Python expertise through projects such as:
+**AI Weather Assistant**  
+IoT prototype combining weather data with computer vision for intelligent outfit recommendations.
+- Raspberry Pi 4 system with camera module and microphone
+- Real-time weather API integration
+- Computer vision algorithms for clothing analysis
+- Voice-activated interface for hands-free interaction
 
-A text-based dungeon crawler showcasing OOP principles, problem solving, and narrative design (Legend of Zelda: Echoes of the Lost Hero)
-Web scraping with BeautifulSoup and Selenium to collect real world data
-RESTful API integration, SQL, Pandas, Matplotlib, Seaborn, and Flask for data wrangling and visualization
+## 💼 Professional Experience
 
-## Family & Personal Life
-I’m also a proud father to a fun, loving (and often crazy!) 2-year-old son, and I’m married to my high school best friend, the love of my life. Balancing family, side jobs, college, and internships can be challenging, but it’s helped shape me into the resilient and motivated person I am today.
+**Tesla | Service/Mobile Technician** (2021-2024)  
+- Developed streamlined diagnostic workflows reducing service time by 15%
+- Automated repetitive tasks using Python scripts
+- Helped launch Roadside Assistance Program in Upper NYC area
+- Contributed data-driven insights for Supercharger network expansion
 
-I believe there’s no easy or final endpoint to learning in tech, and I’m eager to continually push my skills, whether for startups or large enterprises.
+**NEFL | Web Developer / Digital Marketing** (2020-2023)  
+- Built company website from scratch, driving measurable sales growth
+- Implemented SEO strategies resulting in 40%+ organic traffic increase
+- Integrated social media APIs and promotional campaigns
 
-#### Thanks for checking out my profile! If you’ve read this far, feel free to connect with me on LinkedIn, email, or even Discord!(@dizzle63)
+**Food Truck Franchise | Owner/Operator** (2018-2020)  
+- Transformed multi-location gourmet food truck into successful franchise
+- Built fully integrated website with Square API for online ordering
+- Implemented QR-based pickup system streamlining high-traffic NYC events
 
+## 🎓 Education
 
-### Feel free to explore my repositories and reach out for collaborations or discussions on exciting tech ideas! If you have any cool ideas (Tech or non tech) and you want to work together I'd be more than happy to see what you have!
+**Grand Canyon University** - BS in Software Development (Expected 2026)  
+**Nebula Academy** - Python Development Data Analyst Bootcamp (Completed January 2025)
 
-#### 📫 Let's Connect:
+## 🛠️ Tech Stack
+
+**Languages:** JavaScript, TypeScript, Python, Lua, Java, HTML/CSS  
+**Frontend:** React, Tailwind CSS, Responsive Design  
+**Backend:** Node.js, Firebase (Firestore, Auth, Functions), RESTful APIs  
+**Blockchain:** Solana Web3.js, SPL Token, Wallet Integration  
+**Tools:** Git/GitHub, Netlify, Firebase Hosting, Roblox Studio, Figma  
+**Other:** IoT (Raspberry Pi), AI/ML Integration, Agile Methodologies
+
+## 🌟 What Drives Me
+
+I'm passionate about building consumer-facing products that solve real problems. Whether it's helping traders make better decisions on TopBlast or creating engaging gaming experiences, I focus on shipping products that people actually use and love.
+
+After being laid off from Tesla, I made pivotal life changes: returned to college, relocated to North Carolina for a fresh start, and doubled down on software development. That challenging period taught me resilience and pushed me to build real applications rather than just doing tutorials.
+
+## 👨‍👩‍👦 Personal
+
+I'm a proud father to an energetic 2-year-old and married to my high school best friend. Balancing family, college, and shipping production apps isn't easy, but it's shaped me into the focused, motivated developer I am today.
+
+I believe learning in tech never stops, and I'm eager to continually level up my skills whether working with startups or enterprises.
+
+---
+
+### 📫 Let's Connect:
 
 <a href="https://www.linkedin.com/in/dimitri-jimenez/" target="_blank" style="display: inline-block; margin-right: 10px;">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn" width="30" height="30">
@@ -35,10 +80,13 @@ I believe there’s no easy or final endpoint to learning in tech, and I’m eag
 <a href="mailto:dimijimz96@gmail.com" target="_blank" style="display: inline-block;">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" alt="Gmail" width="30" height="30">
 </a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.dimijimz.com" target="_blank" style="display: inline-block;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/firefox.svg" alt="Portfolio" width="30" height="30">
+</a>
 
+**Discord:** @dizzle63
 
+---
 
-<!---
-dimijimz/dimijimz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+*Thanks for checking out my profile! Feel free to explore my repositories and reach out for collaborations or discussions on exciting tech ideas!*
