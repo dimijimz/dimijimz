@@ -1,6 +1,6 @@
 # yo. i'm dimitri.
 
-i build things that ship. full-stack dev out of charlotte, nc.
+i build things that ship. full-stack dev out of nc.
 
 if it touches react, solana, or firebase — i've probably broken it and fixed it twice.
 
