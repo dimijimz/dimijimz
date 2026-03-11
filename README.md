@@ -8,7 +8,7 @@ if it touches react, solana, or firebase, i've probably broken it and fixed it t
 
 ### what i've shipped
 
-**[live web3 social platform](https://topblast.tech)** — full-stack react + firebase + solana. real-time data, wallet integration, AI-powered risk analysis, social layer. real users, not a demo.
+**[live web3 social platform](https://topblast.tech)** — full-stack react + firebase + solana. real-time data, wallet integration, AI-powered risk analysis, social layer.
 
 **AI agent with dual-brain architecture** — autonomous agent that trades on-chain and posts socially. opus for the decisions, haiku for the personality. built the vision doc, tokenomics, and the tech from scratch.
 
