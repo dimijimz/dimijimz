@@ -1,30 +1,6 @@
-# yo. i'm dimitri.
+# yo, i'm dimitri
 
-i build things that ship. full-stack dev out of nc.
-
-if it touches react, solana, or firebase, i've probably broken it and fixed it twice.
-
----
-
-### what i've shipped
-
-**[live web3 social platform](https://topblast.tech)** — full-stack react + firebase + solana. real-time data, wallet integration, AI-powered risk analysis, social layer.
-
-**AI agent with dual-brain architecture** — autonomous agent that trades on-chain and posts socially. opus for the decisions, haiku for the personality. built the vision doc, tokenomics, and the tech from scratch.
-
-**browser games with live chat integration** — built a full game engine in the browser with connected leaderboards and real-time chat-controlled gameplay. also built the chat watching bot from scratch.
-
-**author e-commerce site** — designed and shipped a full author platform with book shop, live review integration, and social content feeds.
-
-**investor pitch deck & token launch strategy** — 18-slide deck with market analysis, competitive positioning, and go-to-market. accepted by a real DAO.
-
-**multiplayer roblox game** — custom vehicle physics, dual-currency economy, microtransaction infrastructure, persistent player data.
-
-**IoT weather system** — raspberry pi + camera + computer vision + weather APIs. hardware meets software.
-
-**freelance client sites** — local businesses, restaurants, custom builds. concept to deployment in 48 hours.
-
----
+i build things that ship. full-stack dev from nc.
 
 ### stack
 
